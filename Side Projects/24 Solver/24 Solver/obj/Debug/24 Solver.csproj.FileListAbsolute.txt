@@ -1,0 +1,12 @@
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF-Hosting-with-Windows-Service\24 Solver\24 Solver\bin\Debug\24 Solver.exe.config
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF-Hosting-with-Windows-Service\24 Solver\24 Solver\obj\Debug\24 Solver.csprojResolveAssemblyReference.cache
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF-Hosting-with-Windows-Service\24 Solver\24 Solver\bin\Debug\24 Solver.exe
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF-Hosting-with-Windows-Service\24 Solver\24 Solver\bin\Debug\24 Solver.pdb
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF-Hosting-with-Windows-Service\24 Solver\24 Solver\obj\Debug\24 Solver.exe
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF-Hosting-with-Windows-Service\24 Solver\24 Solver\obj\Debug\24 Solver.pdb
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\24 Solver\24 Solver\bin\Debug\24 Solver.exe.config
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\24 Solver\24 Solver\bin\Debug\24 Solver.exe
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\24 Solver\24 Solver\bin\Debug\24 Solver.pdb
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\24 Solver\24 Solver\obj\Debug\24 Solver.csprojResolveAssemblyReference.cache
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\24 Solver\24 Solver\obj\Debug\24 Solver.exe
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\24 Solver\24 Solver\obj\Debug\24 Solver.pdb

@@ -1,0 +1,6 @@
+c:\users\ah0245\documents\visual studio 2017\Projects\Sorting Algo\Sorting Algo\bin\Debug\Sorting Algo.exe.config
+c:\users\ah0245\documents\visual studio 2017\Projects\Sorting Algo\Sorting Algo\bin\Debug\Sorting Algo.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\Sorting Algo\Sorting Algo\bin\Debug\Sorting Algo.pdb
+c:\users\ah0245\documents\visual studio 2017\Projects\Sorting Algo\Sorting Algo\obj\Debug\Sorting Algo.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2017\Projects\Sorting Algo\Sorting Algo\obj\Debug\Sorting Algo.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\Sorting Algo\Sorting Algo\obj\Debug\Sorting Algo.pdb

@@ -1,0 +1,6 @@
+c:\users\ah0245\documents\visual studio 2017\Projects\Random\Random\bin\Debug\Random.exe.config
+c:\users\ah0245\documents\visual studio 2017\Projects\Random\Random\bin\Debug\Random.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\Random\Random\bin\Debug\Random.pdb
+c:\users\ah0245\documents\visual studio 2017\Projects\Random\Random\obj\Debug\Random.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2017\Projects\Random\Random\obj\Debug\Random.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\Random\Random\obj\Debug\Random.pdb

@@ -1,0 +1,9 @@
+c:\Users\ah0245\documents\visual studio 2017\Projects\TextDiff\TextDiff\bin\Debug\TextDiff.exe.config
+c:\Users\ah0245\documents\visual studio 2017\Projects\TextDiff\TextDiff\bin\Debug\TextDiff.exe
+c:\Users\ah0245\documents\visual studio 2017\Projects\TextDiff\TextDiff\bin\Debug\TextDiff.pdb
+c:\Users\ah0245\documents\visual studio 2017\Projects\TextDiff\TextDiff\obj\Debug\TextDiff.csprojResolveAssemblyReference.cache
+c:\Users\ah0245\documents\visual studio 2017\Projects\TextDiff\TextDiff\obj\Debug\TextDiff.Form1.resources
+c:\Users\ah0245\documents\visual studio 2017\Projects\TextDiff\TextDiff\obj\Debug\TextDiff.Properties.Resources.resources
+c:\Users\ah0245\documents\visual studio 2017\Projects\TextDiff\TextDiff\obj\Debug\TextDiff.csproj.GenerateResource.Cache
+c:\Users\ah0245\documents\visual studio 2017\Projects\TextDiff\TextDiff\obj\Debug\TextDiff.exe
+c:\Users\ah0245\documents\visual studio 2017\Projects\TextDiff\TextDiff\obj\Debug\TextDiff.pdb

@@ -1,0 +1,6 @@
+c:\users\ah0245\documents\visual studio 2017\Projects\AddDigits\AddDigits\bin\Debug\AddDigits.exe.config
+c:\users\ah0245\documents\visual studio 2017\Projects\AddDigits\AddDigits\bin\Debug\AddDigits.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\AddDigits\AddDigits\bin\Debug\AddDigits.pdb
+c:\users\ah0245\documents\visual studio 2017\Projects\AddDigits\AddDigits\obj\Debug\AddDigits.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2017\Projects\AddDigits\AddDigits\obj\Debug\AddDigits.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\AddDigits\AddDigits\obj\Debug\AddDigits.pdb

@@ -1,0 +1,6 @@
+c:\users\ah0245\documents\visual studio 2015\Projects\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe.config
+c:\users\ah0245\documents\visual studio 2015\Projects\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe
+c:\users\ah0245\documents\visual studio 2015\Projects\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.pdb
+c:\users\ah0245\documents\visual studio 2015\Projects\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2015\Projects\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.exe
+c:\users\ah0245\documents\visual studio 2015\Projects\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.pdb

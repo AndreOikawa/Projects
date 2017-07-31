@@ -1,0 +1,9 @@
+c:\users\ah0245\documents\visual studio 2017\Projects\VisualSorting\VisualSorting\bin\Debug\VisualSorting.exe.config
+c:\users\ah0245\documents\visual studio 2017\Projects\VisualSorting\VisualSorting\bin\Debug\VisualSorting.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\VisualSorting\VisualSorting\bin\Debug\VisualSorting.pdb
+c:\users\ah0245\documents\visual studio 2017\Projects\VisualSorting\VisualSorting\obj\Debug\VisualSorting.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2017\Projects\VisualSorting\VisualSorting\obj\Debug\VisualSorting.Form1.resources
+c:\users\ah0245\documents\visual studio 2017\Projects\VisualSorting\VisualSorting\obj\Debug\VisualSorting.Properties.Resources.resources
+c:\users\ah0245\documents\visual studio 2017\Projects\VisualSorting\VisualSorting\obj\Debug\VisualSorting.csproj.GenerateResource.Cache
+c:\users\ah0245\documents\visual studio 2017\Projects\VisualSorting\VisualSorting\obj\Debug\VisualSorting.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\VisualSorting\VisualSorting\obj\Debug\VisualSorting.pdb

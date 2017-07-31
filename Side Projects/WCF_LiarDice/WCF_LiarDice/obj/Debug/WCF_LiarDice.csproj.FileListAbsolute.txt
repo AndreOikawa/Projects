@@ -1,0 +1,6 @@
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF_LiarDice\WCF_LiarDice\bin\Debug\WCF_LiarDice.dll.config
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF_LiarDice\WCF_LiarDice\bin\Debug\WCF_LiarDice.dll
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF_LiarDice\WCF_LiarDice\bin\Debug\WCF_LiarDice.pdb
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF_LiarDice\WCF_LiarDice\obj\Debug\WCF_LiarDice.csprojResolveAssemblyReference.cache
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF_LiarDice\WCF_LiarDice\obj\Debug\WCF_LiarDice.dll
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\WCF_LiarDice\WCF_LiarDice\obj\Debug\WCF_LiarDice.pdb

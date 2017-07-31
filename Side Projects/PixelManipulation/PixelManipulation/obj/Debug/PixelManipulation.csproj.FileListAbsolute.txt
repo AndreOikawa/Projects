@@ -1,0 +1,18 @@
+c:\users\ah0245\documents\visual studio 2015\Projects\PixelManipulation\PixelManipulation\bin\Debug\PixelManipulation.exe.config
+c:\users\ah0245\documents\visual studio 2015\Projects\PixelManipulation\PixelManipulation\bin\Debug\PixelManipulation.exe
+c:\users\ah0245\documents\visual studio 2015\Projects\PixelManipulation\PixelManipulation\bin\Debug\PixelManipulation.pdb
+c:\users\ah0245\documents\visual studio 2015\Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2015\Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.Form1.resources
+c:\users\ah0245\documents\visual studio 2015\Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.Properties.Resources.resources
+c:\users\ah0245\documents\visual studio 2015\Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.csproj.GenerateResource.Cache
+c:\users\ah0245\documents\visual studio 2015\Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.exe
+c:\users\ah0245\documents\visual studio 2015\Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.pdb
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\PixelManipulation\PixelManipulation\bin\Debug\PixelManipulation.exe.config
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\PixelManipulation\PixelManipulation\bin\Debug\PixelManipulation.exe
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\PixelManipulation\PixelManipulation\bin\Debug\PixelManipulation.pdb
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.csprojResolveAssemblyReference.cache
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.Form1.resources
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.Properties.Resources.resources
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.csproj.GenerateResource.Cache
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.exe
+C:\Users\ah0245\Documents\Visual Studio 2015\Projects\Side Projects\PixelManipulation\PixelManipulation\obj\Debug\PixelManipulation.pdb

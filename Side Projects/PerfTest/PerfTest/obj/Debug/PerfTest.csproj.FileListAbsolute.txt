@@ -1,0 +1,6 @@
+c:\users\ah0245\documents\visual studio 2015\Projects\PerfTest\PerfTest\bin\Debug\PerfTest.exe.config
+c:\users\ah0245\documents\visual studio 2015\Projects\PerfTest\PerfTest\bin\Debug\PerfTest.exe
+c:\users\ah0245\documents\visual studio 2015\Projects\PerfTest\PerfTest\bin\Debug\PerfTest.pdb
+c:\users\ah0245\documents\visual studio 2015\Projects\PerfTest\PerfTest\obj\Debug\PerfTest.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2015\Projects\PerfTest\PerfTest\obj\Debug\PerfTest.exe
+c:\users\ah0245\documents\visual studio 2015\Projects\PerfTest\PerfTest\obj\Debug\PerfTest.pdb

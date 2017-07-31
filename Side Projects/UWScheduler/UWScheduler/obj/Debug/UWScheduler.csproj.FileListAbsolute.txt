@@ -1,0 +1,9 @@
+c:\users\ah0245\documents\visual studio 2017\Projects\UWScheduler\UWScheduler\bin\Debug\UWScheduler.exe.config
+c:\users\ah0245\documents\visual studio 2017\Projects\UWScheduler\UWScheduler\bin\Debug\UWScheduler.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\UWScheduler\UWScheduler\bin\Debug\UWScheduler.pdb
+c:\users\ah0245\documents\visual studio 2017\Projects\UWScheduler\UWScheduler\obj\Debug\UWScheduler.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2017\Projects\UWScheduler\UWScheduler\obj\Debug\UWScheduler.Form1.resources
+c:\users\ah0245\documents\visual studio 2017\Projects\UWScheduler\UWScheduler\obj\Debug\UWScheduler.Properties.Resources.resources
+c:\users\ah0245\documents\visual studio 2017\Projects\UWScheduler\UWScheduler\obj\Debug\UWScheduler.csproj.GenerateResource.Cache
+c:\users\ah0245\documents\visual studio 2017\Projects\UWScheduler\UWScheduler\obj\Debug\UWScheduler.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\UWScheduler\UWScheduler\obj\Debug\UWScheduler.pdb

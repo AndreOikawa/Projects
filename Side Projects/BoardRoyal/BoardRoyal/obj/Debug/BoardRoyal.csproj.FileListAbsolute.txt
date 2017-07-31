@@ -1,0 +1,8 @@
+c:\users\ah0245\documents\visual studio 2015\Projects\BoardRoyal\BoardRoyal\bin\Debug\BoardRoyal.exe.config
+c:\users\ah0245\documents\visual studio 2015\Projects\BoardRoyal\BoardRoyal\bin\Debug\BoardRoyal.exe
+c:\users\ah0245\documents\visual studio 2015\Projects\BoardRoyal\BoardRoyal\bin\Debug\BoardRoyal.pdb
+c:\users\ah0245\documents\visual studio 2015\Projects\BoardRoyal\BoardRoyal\obj\Debug\BoardRoyal.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2015\Projects\BoardRoyal\BoardRoyal\obj\Debug\BoardRoyal.Properties.Resources.resources
+c:\users\ah0245\documents\visual studio 2015\Projects\BoardRoyal\BoardRoyal\obj\Debug\BoardRoyal.csproj.GenerateResource.Cache
+c:\users\ah0245\documents\visual studio 2015\Projects\BoardRoyal\BoardRoyal\obj\Debug\BoardRoyal.exe
+c:\users\ah0245\documents\visual studio 2015\Projects\BoardRoyal\BoardRoyal\obj\Debug\BoardRoyal.pdb
