@@ -1,0 +1,10 @@
+C:\Users\ah0245\Documents\Visual Studio 2017\Projects\FloodGate\FloodGate\bin\Debug\FloodGate.exe.config
+c:\users\ah0245\documents\visual studio 2017\Projects\FloodGate\FloodGate\bin\Debug\FloodGate.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\FloodGate\FloodGate\bin\Debug\FloodGate.pdb
+c:\users\ah0245\documents\visual studio 2017\Projects\FloodGate\FloodGate\obj\Debug\FloodGate.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2017\Projects\FloodGate\FloodGate\obj\Debug\FloodGate.Properties.Resources.resources
+c:\users\ah0245\documents\visual studio 2017\Projects\FloodGate\FloodGate\obj\Debug\FloodGate.csproj.GenerateResource.Cache
+c:\users\ah0245\documents\visual studio 2017\Projects\FloodGate\FloodGate\obj\Debug\FloodGate.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\FloodGate\FloodGate\obj\Debug\FloodGate.pdb
+c:\users\ah0245\documents\visual studio 2017\Projects\FloodGate\FloodGate\obj\Debug\FloodGate.frmSettings.resources
+c:\users\ah0245\documents\visual studio 2017\Projects\FloodGate\FloodGate\obj\Debug\FloodGate.Game.resources
