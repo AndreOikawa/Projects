@@ -1,0 +1,10 @@
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\bin\Debug\MainServer.exe.config
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\bin\Debug\MainServer.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\bin\Debug\MainServer.pdb
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\obj\Debug\MainServer.csprojResolveAssemblyReference.cache
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\obj\Debug\MainServer.Connection.resources
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\obj\Debug\MainServer.Form1.resources
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\obj\Debug\MainServer.Properties.Resources.resources
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\obj\Debug\MainServer.csproj.GenerateResource.Cache
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\obj\Debug\MainServer.exe
+c:\users\ah0245\documents\visual studio 2017\Projects\MainServer\MainServer\obj\Debug\MainServer.pdb
